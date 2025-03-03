@@ -1,0 +1,12 @@
+C:\Users\Яков\Desktop\ConnectorBinance\ConnectorBinance\bin\Debug\ConnectorBinance.dll
+C:\Users\Яков\Desktop\ConnectorBinance\ConnectorBinance\bin\Debug\ConnectorBinance.pdb
+C:\Users\Яков\Desktop\ConnectorBinance\ConnectorBinance\obj\Debug\ConnectorBinance.csproj.AssemblyReference.cache
+C:\Users\Яков\Desktop\ConnectorBinance\ConnectorBinance\obj\Debug\ConnectorBinance.csproj.CoreCompileInputs.cache
+C:\Users\Яков\Desktop\ConnectorBinance\ConnectorBinance\obj\Debug\ConnectorBinance.dll
+C:\Users\Яков\Desktop\ConnectorBinance\ConnectorBinance\obj\Debug\ConnectorBinance.pdb
+C:\Users\Яков\Desktop\Testing_Programm — копия\ConnectorBinance\ConnectorBinance\bin\Debug\ConnectorBinance.dll
+C:\Users\Яков\Desktop\Testing_Programm — копия\ConnectorBinance\ConnectorBinance\bin\Debug\ConnectorBinance.pdb
+C:\Users\Яков\Desktop\Testing_Programm — копия\ConnectorBinance\ConnectorBinance\obj\Debug\ConnectorBinance.csproj.AssemblyReference.cache
+C:\Users\Яков\Desktop\Testing_Programm — копия\ConnectorBinance\ConnectorBinance\obj\Debug\ConnectorBinance.csproj.CoreCompileInputs.cache
+C:\Users\Яков\Desktop\Testing_Programm — копия\ConnectorBinance\ConnectorBinance\obj\Debug\ConnectorBinance.dll
+C:\Users\Яков\Desktop\Testing_Programm — копия\ConnectorBinance\ConnectorBinance\obj\Debug\ConnectorBinance.pdb

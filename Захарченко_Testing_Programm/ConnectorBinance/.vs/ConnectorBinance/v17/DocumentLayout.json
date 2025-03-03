@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\ConnectorBinance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36DA3606-0189-44FD-9B21-1C99B7F84243}|ConnectorBinance\\ConnectorBinance.csproj|c:\\users\\\u044F\u043A\u043E\u0432\\desktop\\testing_programm \u2014 \u043A\u043E\u043F\u0438\u044F\\connectorbinance\\connectorbinance\\connectorbinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DA3606-0189-44FD-9B21-1C99B7F84243}|ConnectorBinance\\ConnectorBinance.csproj|solutionrelative:connectorbinance\\connectorbinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectorBinance.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\ConnectorBinance\\ConnectorBinance\\ConnectorBinance.cs",
+              "RelativeDocumentMoniker": "ConnectorBinance\\ConnectorBinance.cs",
+              "ToolTip": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\ConnectorBinance\\ConnectorBinance\\ConnectorBinance.cs",
+              "RelativeToolTip": "ConnectorBinance\\ConnectorBinance.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:05:03.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

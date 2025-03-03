@@ -1,0 +1,41 @@
+﻿<Window x:Class="Testing_Programm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Testing_Programm"
+        Title="Testing_Programm" Height="466" Width="884">
+
+    <Window.DataContext>
+        <local:MainViewModel/>
+    </Window.DataContext>
+
+    <Grid>
+        <DockPanel>
+            <TabControl>
+                <TabItem Header="Calculation total balance in currency with REST API">
+                    <Grid Background="#FFE5E5E5" DockPanel.Dock="Left">
+                        <DockPanel>
+                            <DataGrid ItemsSource="{Binding Balances}" AutoGenerateColumns="False" DockPanel.Dock="Top">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="Currency" Binding="{Binding Currency}" />
+                                    <DataGridTextColumn Header="Balance" Binding="{Binding Balance}" />
+                                    <DataGridTextColumn Header="Total Balance In Currency" Binding="{Binding TotalBalanceInCurrency}" />
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </DockPanel>
+                    </Grid>
+                </TabItem>
+                <TabItem Header="The work of the WEBSOCKET API (BTC)">
+                    <Grid Background="#FFE5E5E5" DockPanel.Dock="Left">
+                        <DockPanel>
+                            <DataGrid ItemsSource="{Binding Output}" AutoGenerateColumns="False" DockPanel.Dock="Top">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="Output" Binding ="{Binding Output}" />
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </DockPanel>
+                    </Grid>
+                </TabItem>
+            </TabControl>
+        </DockPanel>
+    </Grid>
+</Window>

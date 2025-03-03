@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|c:\\users\\\u044F\u043A\u043E\u0432\\desktop\\testing_programm \u2014 \u043A\u043E\u043F\u0438\u044F\\testing_programm\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|solutionrelative:testing_programm\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\testing_programm\\currencytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|solutionrelative:testing_programm\\currencytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\testing_programm\\briefcasecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|solutionrelative:testing_programm\\briefcasecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\testing_programm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|solutionrelative:testing_programm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\testing_programm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1D8B9E-26C4-456C-AE96-AEBBAA983F69}|Testing_Programm\\Testing_Programm.csproj|solutionrelative:testing_programm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Testing_Programm\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\MainWindow.xaml",
+              "RelativeToolTip": "Testing_Programm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T20:42:34.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Testing_Programm\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\RelayCommand.cs",
+              "RelativeToolTip": "Testing_Programm\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:42:10.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BriefcaseCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\BriefcaseCalculator.cs",
+              "RelativeDocumentMoniker": "Testing_Programm\\BriefcaseCalculator.cs",
+              "ToolTip": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\BriefcaseCalculator.cs",
+              "RelativeToolTip": "Testing_Programm\\BriefcaseCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:42:09.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Testing_Programm\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\MainViewModel.cs",
+              "RelativeToolTip": "Testing_Programm\\MainViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAMAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:42:06.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyTable.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\CurrencyTable.cs",
+              "RelativeDocumentMoniker": "Testing_Programm\\CurrencyTable.cs",
+              "ToolTip": "C:\\Users\\\u042F\u043A\u043E\u0432\\Desktop\\Testing_Programm \u2014 \u043A\u043E\u043F\u0438\u044F\\Testing_Programm\\CurrencyTable.cs",
+              "RelativeToolTip": "Testing_Programm\\CurrencyTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:02:15.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

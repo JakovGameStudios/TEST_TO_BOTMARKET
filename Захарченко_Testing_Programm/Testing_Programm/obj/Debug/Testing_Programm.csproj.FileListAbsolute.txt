@@ -1,0 +1,35 @@
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm.csproj.AssemblyReference.cache
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\MainWindow.g.cs
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\App.g.cs
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm_MarkupCompile.cache
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm_MarkupCompile.lref
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\bin\Debug\Testing_Programm.exe.config
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\bin\Debug\Testing_Programm.exe
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\bin\Debug\Testing_Programm.pdb
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\MainWindow.baml
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm.g.resources
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm.Properties.Resources.resources
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm.csproj.GenerateResource.cache
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm.csproj.CoreCompileInputs.cache
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm.exe
+C:\Users\Яков\Desktop\Testing_Programm\Testing_Programm\obj\Debug\Testing_Programm.pdb
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm.csproj.AssemblyReference.cache
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm.exe
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm.pdb
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\MainWindow.g.cs
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\App.g.cs
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm_MarkupCompile.cache
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm_MarkupCompile.lref
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\bin\Debug\Testing_Programm.exe.config
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\bin\Debug\Testing_Programm.exe
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\bin\Debug\Testing_Programm.pdb
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\bin\Debug\ConnectorBinance.dll
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\bin\Debug\ConnectorBinance.pdb
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\MainWindow.baml
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm.g.resources
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm.Properties.Resources.resources
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm.csproj.GenerateResource.cache
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_Programm.csproj.CoreCompileInputs.cache
+C:\Users\Яков\Desktop\Testing_Programm — копия\Testing_Programm\obj\Debug\Testing_.F4B12D4B.Up2Date
